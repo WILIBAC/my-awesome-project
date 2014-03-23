@@ -10,3 +10,5 @@ Equipo
 * Josue Bustamante
 * Adrian Estrada
 * Dora Mejia
+* Alex Restrepo
+* Cristian Sepulveda

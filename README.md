@@ -9,6 +9,3 @@ Equipo
 * Julian Duque
 * Josue Bustamante
 * Adrian Estrada
-* Dora Mejia
-* Alex Restrepo
-* Cristian Sepulveda

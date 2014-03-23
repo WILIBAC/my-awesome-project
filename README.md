@@ -1,4 +1,11 @@
-my-awesome-project
+My Awesome Project
 ==================
 
-Genial!
+Este proyecto es un ejemplo de como usar Github
+
+Equipo
+=================
+
+* Julian Duque
+* Josue Bustamante
+* Adrian Estrada
